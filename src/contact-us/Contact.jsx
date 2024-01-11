@@ -33,10 +33,10 @@ export default function Contact() {
                 <h2 className="text-white text-xl md:text-2xl font-[500] mb-1">
                   {engineer.name}
                 </h2>
-                <p className="text-white text-sm md:text-lg font-[400]">
+                <p className="text-slate-300 text-sm md:text-lg font-[400]">
                   {engineer.specialization}
                 </p>
-                <p className="text-white text-sm md:text-lg font-[300]">
+                <p className="text-slate-100 text-sm md:text-lg font-[300]">
                   {engineer.email}
                 </p>
               </div>
